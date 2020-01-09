@@ -1,0 +1,6 @@
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_3\bin\Debug\Dub_Lab_3.exe.config
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_3\bin\Debug\Dub_Lab_3.exe
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_3\bin\Debug\Dub_Lab_3.pdb
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_3\obj\Debug\Dub_Lab_3.csprojAssemblyReference.cache
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_3\obj\Debug\Dub_Lab_3.exe
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_3\obj\Debug\Dub_Lab_3.pdb
